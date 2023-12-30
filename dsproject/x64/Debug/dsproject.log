@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(16,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(155,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(139,24): warning C4101: 'dmin': unreferenced local variable
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(139,16): warning C4101: 'd1': unreferenced local variable
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(139,20): warning C4101: 'd2': unreferenced local variable
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(207,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(232,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saadk\source\repos\dsproject\dsproject\Source.cpp(381,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source1.cpp
+  Source2.cpp
+  Source3.cpp
+  Generating Code...
+  dsproject.vcxproj -> C:\Users\saadk\source\repos\dsproject\x64\Debug\dsproject.exe
